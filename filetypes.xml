@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="action" type="PLAIN_TEXT" />
+      <mapping ext="launch" type="PLAIN_TEXT" />
+      <mapping ext="  launch" type="XML" />
+    </extensionMap>
+  </component>
+</application>
